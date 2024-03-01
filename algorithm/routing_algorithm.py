@@ -2,7 +2,7 @@ from collections import deque
 from copy import deepcopy
 import random
 import time
-from src.node import Node
+from algorithm.node import Node
 
 
 def timer(func):
@@ -20,7 +20,7 @@ from collections import deque
 from copy import deepcopy
 import random
 import time
-from src.node import Node
+from algorithm.node import Node
 
 
 def timer(func):
